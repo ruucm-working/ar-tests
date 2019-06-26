@@ -1,0 +1,27 @@
+
+{
+  "name": "react-arkit",
+  "version": "0.1.8",
+  "description": "AR features for React Native, based on ARKit",
+  "main": "index.js",
+  "homepage": "https://github.com/icanb/react-arkit/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "arkit",
+    "react-arki",
+    "ar",
+    "augmented-reality"
+  ],
+  "devDependencies": {
+    "react": "16.0.0-alpha.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:icanb/react-arkit.git"
+  },
+  "author": "Ilter Canberk (@icanb)",
+  "license": "MIT License"
+}
